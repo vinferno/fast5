@@ -1,0 +1,12 @@
+<p>page-disney works!</p>
+
+
+<app-selected-character></app-selected-character>
+<hr>
+{{count$ | async}}
+
+<ng-container *ngFor="let character of characters$ | async">
+  <p (click)="selectCharacter(character)">{{character.name}}</p>
+
+  <img [src]="character.imageUrl" alt="">
+</ng-container>

@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 1319345c3e9d1c684111b51eb769cf50e9eaa9e7 vinferno <vinsonfernandez@gmail.com> 1656611178 -0700	commit (initial): initial commit
+1319345c3e9d1c684111b51eb769cf50e9eaa9e7 c7633e9f21e0be569332bb8a2651d2b487d0f41a vinferno <vinsonfernandez@gmail.com> 1656612150 -0700	commit: install ngrx
+c7633e9f21e0be569332bb8a2651d2b487d0f41a d8e79c5793f79aa44a2db51d94acf278205b6567 vinferno <vinsonfernandez@gmail.com> 1656613598 -0700	commit: disney reducer
+d8e79c5793f79aa44a2db51d94acf278205b6567 fc438b7bcbca74ce5fff1b27510ff69cd3a77cdf vinferno <vinsonfernandez@gmail.com> 1656615347 -0700	commit: service
+fc438b7bcbca74ce5fff1b27510ff69cd3a77cdf d0463c9d1f2982dbe4988e0b4cf062f3edde41e3 vinferno <vinsonfernandez@gmail.com> 1656616166 -0700	commit: effect
+d0463c9d1f2982dbe4988e0b4cf062f3edde41e3 df76a74c16d220354289cfefa395641da54bc443 vinferno <vinsonfernandez@gmail.com> 1656627404 -0700	commit: selectors
+df76a74c16d220354289cfefa395641da54bc443 281e4a367b3ced6e80a2a644a939cf4b7842f930 vinferno <vinsonfernandez@gmail.com> 1656630480 -0700	commit: disney
